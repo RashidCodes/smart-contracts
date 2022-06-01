@@ -30,3 +30,14 @@ It is a gas estimator of the blockchain. You can find it [here](ethgasstation.in
 
 # Remix
 Remix IDE is where we'll learn to use solidity and smart contracts.
+
+<br/>
+
+# Oracles
+Oracles are third-party services that provide smart contracts with external information. They serve as bridges between blockchains and the external world. Layer 1's typically do not want to have a say in the political affairs of the real world whereas oracles like chainlink do. Check them out [here](data.chain.link) and [here](https://academy.binance.com/en/articles/blockchain-oracles-explained).
+
+
+<br/>
+
+# ABI (Application Binary Interface)
+Interfaces compile down to an ABI. The ABI tells solidity what functions can be called on another contract. Anytime you're going to interact with another contract, you're going to need an **ABI**
